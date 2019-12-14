@@ -1,0 +1,11 @@
+# Virtualenvs
+venv/
+api/venv/
+# IDEs folder
+.idea/**
+api/.idea/**
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+api/__pycache__/
+api/*.py[cod]
